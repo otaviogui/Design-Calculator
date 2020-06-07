@@ -6,7 +6,7 @@ import styled from "@emotion/styled";
 const Wrap = styled(Svg)`
   width: 12px;
   height: auto;
-  fill:#eaebed;
+  fill: #eaebed;
 `;
 
 function Icon({ icon }) {
